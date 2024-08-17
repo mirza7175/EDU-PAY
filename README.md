@@ -1,1 +1,3 @@
 # EDU-PAY
+EduPay is a robust and user-friendly fees management system developed using Java, designed to streamline and automate the administrative processes related to fee collection and management in educational institutions. The system provides a centralized platform for managing student fees, ensuring accuracy, efficiency, and transparency in financial transactions.
+currently working on this...
